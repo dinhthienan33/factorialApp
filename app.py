@@ -6,6 +6,6 @@ def main():
     if st.button('Calculate'):
         result=fact(number)
         st.write(result)
-        st.balloons()
+        #st.balloons()
 if __name__ == '__main__':
     main()
